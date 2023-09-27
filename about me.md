@@ -16,3 +16,7 @@ code block
   de développement web <br>
   toutes les infos se mélangent <br>
   dans ma tête </p>
+
+😿🥦
+[mise au point](index.md)
+==
