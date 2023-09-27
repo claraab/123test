@@ -6,3 +6,6 @@
 *35 droits*
 **35 droits**
   
+Colonne 1 | Colonne 2 | Colonne 3
+:----------:|:-----------:|:-----------:
+Live | Laugh | Love
