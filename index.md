@@ -5,7 +5,7 @@ C'est un example
 
 <script type="text/javascript"> 
 // <![CDATA[ 
-var colour="#255, 102, 179";
+var colour="#FF66B3";
 var sparkles=100; 
 /**************************** 
 * Tinkerbell Magic Sparkle * 
