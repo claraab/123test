@@ -20,3 +20,11 @@ code block
 😿🥦
 [mise au point](index.md)
 ==
+
+> Descartes a déjà dit
+>> je pense donc je suis <br>
+>Le Discours de la méthode, 1637
+>>
+--------------------------------------------------------------------------------------------------------
+
+![paysage google](téléchargement.jpg)
