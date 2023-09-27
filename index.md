@@ -5,8 +5,8 @@ C'est un example
 
 <script type="text/javascript"> 
 // <![CDATA[ 
-var colour="#FFFFFF";
-var sparkles=50; 
+var colour="#255, 102, 179";
+var sparkles=100; 
 /**************************** 
 * Tinkerbell Magic Sparkle * 
 * (c) 2005 mf2fm web-design * 
